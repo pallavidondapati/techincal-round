@@ -18,3 +18,4 @@ This component focuses on data analysis and visualization. Student test score da
 In this module, user information such as name and email is read from a CSV file using Python’s CSV handling capabilities. The script creates a SQLite database table (if it does not already exist) and inserts the CSV data into the database. This demonstrates how structured data from files can be efficiently imported into a relational database for further
 
 <img src="Screenshot 2026-01-12 130441.png">
+<img src="Screenshot 2026-01-12 130506.png">
