@@ -5,7 +5,7 @@ In this module, data is fetched from an external REST API that provides a list o
 The retrieved data is parsed using Python, and a SQLite database is created locally to store the book information. The data is then inserted into the database using SQL queries, ensuring persistent storage. Finally, the stored records are retrieved from the database and displayed to verify successful insertion.
 <img src="Screenshot 2026-01-12 130327.png">
 output
-<img src="Screenshot 2026-01-12 130314.png"
+<img src="Screenshot 2026-01-12 130314.png">
 
 ##🔹 2. Data Processing and Visualization
 
