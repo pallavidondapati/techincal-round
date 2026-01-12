@@ -12,8 +12,9 @@ output
 This component focuses on data analysis and visualization. Student test score data is fetched from an API and processed in Python to calculate the average score. The processed data is then visualized using a bar chart, which provides a clear comparison of individual student scores. This visualization helps in understanding performance trends and makes the data easier to interpret.
 <img src="Screenshot 2026-01-12 130345.png">
 <img src="Screenshot 2026-01-12 130423.png">
+
 🔹 3. CSV Data Import to a Database
 
 In this module, user information such as name and email is read from a CSV file using Python’s CSV handling capabilities. The script creates a SQLite database table (if it does not already exist) and inserts the CSV data into the database. This demonstrates how structured data from files can be efficiently imported into a relational database for further
 
-<img src="">
+<img src="Screenshot 2026-01-12 130441.png">
