@@ -27,4 +27,9 @@ In this module, user information such as name and email is read from a CSV file 
 
 <h2>5.Send a link to the most complex database code you have written</h2>
   i am also learning database in parllel to my ml learning so ijust had a partice model but they are not that complex
-
+<h2>Problem statement- assignment 2
+</h2>
+<h3>
+link to doc:
+</h3>
+https://in.docworkspace.com/d/sIFD_jZCZAv3-kssG?sa=601.1037
